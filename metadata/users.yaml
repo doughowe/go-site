@@ -1844,6 +1844,9 @@
     termgenie-go:
       allow-write: true
       allow-freeform: true
+  groups:
+    - 'http://geneontology.org'
+    - 'https://zfin.org'
   xref: 'GOC:dgh'
   uri: 'http://orcid.org/0000-0001-5831-7439'
   organization: ZFIN
